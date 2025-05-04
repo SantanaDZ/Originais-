@@ -1,0 +1,27 @@
+[
+    {
+        "nome": "Iphone 15",
+        "preco": 5000.0,
+        "quantidade": 10
+    },
+    {
+        "nome": "Iphone 14",
+        "preco": 4500.0,
+        "quantidade": 12
+    },
+    {
+        "nome": "Iphone 13",
+        "preco": 4000.0,
+        "quantidade": 14
+    },
+    {
+        "nome": "Iphone 12",
+        "preco": 3000.0,
+        "quantidade": 15
+    },
+    {
+        "nome": "Iphone 11",
+        "preco": 2000.0,
+        "quantidade": 5
+    }
+]
